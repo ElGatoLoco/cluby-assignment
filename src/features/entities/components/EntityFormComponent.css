@@ -1,0 +1,22 @@
+.ant-modal-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.ant-form-item-label > label {
+  font-size: 18px;
+}
+.ant-input {
+  outline: none;
+  border-color: #444;
+  border-width: 2px;
+  border-radius: 7px;
+  border-style: solid;
+  font-size: 18px;
+}
+.ant-input.error {
+  border-color: #e44;
+}
+.error-message {
+  color: #e44;
+  min-height: 20px;
+}
